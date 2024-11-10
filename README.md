@@ -16,7 +16,7 @@ Wanderwise is a Java-based chatbot designed to assist travelers with their trave
 •	Planned Extension: Database integration for efficient data management <br>
 
 <h2>User Login</h2>
-![image height=100px widhth=100px](https://github.com/user-attachments/assets/e0b9bf62-b115-4f37-8949-c08dd69371c6)
+![image](https://github.com/user-attachments/assets/e0b9bf62-b115-4f37-8949-c08dd69371c6)
  <br>
 <h2>Entering Query</h2>  
 ![image](https://github.com/user-attachments/assets/e78f4572-d780-4d39-89c6-1ccd5bb223cb)
