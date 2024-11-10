@@ -15,17 +15,17 @@ Tech Stack Used
 •	Data Structures: HashMaps (for storing questions and answers)
 •	User Input Handling: StringTokenizer (for tokenizing and comparing user queries)
 •	Planned Extension: Database integration for efficient data management
-
-User Login
+ <br>
+User Login <br>
 ![image](https://github.com/user-attachments/assets/e0b9bf62-b115-4f37-8949-c08dd69371c6)
-
-Entering Query
+ <br>
+Entering Query  <br>
 ![image](https://github.com/user-attachments/assets/e78f4572-d780-4d39-89c6-1ccd5bb223cb)
-
-Related Questions
+ <br>
+Related Questions <br>
 ![image](https://github.com/user-attachments/assets/0e0b7634-9d19-44b4-98c8-42303a35c80c)
-
-Answers to related questions
+ <br>
+Answers to related questions <br>
 ![image](https://github.com/user-attachments/assets/3904d58e-4164-4cce-b067-d0a5ab679805)
 
 
